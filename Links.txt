@@ -1,0 +1,12 @@
+Linear Regression Notes:
+https://linearregressionconcept.blogspot.com/2020/05/linear-regression-i-ntroduction-linear.html?fbclid=IwAR0O9gKOw2ogegOV2U3hUsGnx5AMErz0wkS83L0KtDydaeIUn-qQaImjrY8
+
+
+How to install Keras with a TensorFlow backend for deep learning:
+https://inmachineswetrust.com/posts/deep-learning-setup/?fbclid=IwAR1bXBj0bNRNAKjXg6KvHmCWaYmmcfKAUADS7mW6XKlP_CJP7zzXrzH0LJw
+
+Carnegie Mellion University's ML Resource Page:
+http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml?fbclid=IwAR0RmTO0B41E7ZFrzft-pINmxQY496e0wzdsSzfED7kEE9tTLKAg7VUu54E
+
+For various deep learning courses and materials check out:
+https://deep-learning-drizzle.github.io/?fbclid=IwAR1rozDOBbpa_haLI8API_dUGS5tYCDa9rgkNnC2wlCQTifaCB-RITGug9U
